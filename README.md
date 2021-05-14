@@ -30,4 +30,25 @@
     * FAN: Electric Utilities - 38.05%, Renewable Energy - 26.68%, Independent Power - 10.92%, Industrial Conglomerates - 7.21%, Multiline Utilities - 6.05%, Industrial Machines - 2.43%, Specialty Chemicals - 1.89%, Heavy Electrical Equipment - 1.74%, Diversified Trading - 1.58%, Construction and Equipment - 1.58%
     * SPY: Technology - 33.97%, Consumer Cyclicals - 14.39%, Healthcare - 13.35%, Financials - 12.76%, Industrials - 9.51%, Consumer Non-Cyc - 6.47%, Utilities - 2.88%, Basic Materials - 2.57%, Energy - 2.29%, Telecom - 1.80%
 
+- How are ESG funds rated and how ist he rating system used?
+    * MSCI ESG Rating range from best (AAA) to worst (CCC)
+        * The funds were rated as follows:
+        * FAN, ESGD, and EFAX = AA
+        * ETHO and CRBN = A
+        * SPYX = BBB
+        * SPY = BBB
+    
+- Can ESG funds peform just as well as the S&P500, a non-ESG benchmark?
+    * Historical data analysis based on 3 years of data
+    * Monte Carlo simulations based on 500 simulations
+        * 1-year simulation used 1 year of historical data
+        * 5-year, 10-year, and 20-year simulations used 3 years of historical data
+    * ESG funds were equally weighted and the simulated data showed that investing in ESG funds results in a more conservative approach in comparison to the benchmark.
+    * Based on an initial investment of $10,000 there is 95 percent chance that over the next year the ESG funds for each simulation will end with a narrower range between the lower and upper limits of the confidence interval than that of the benchmark.
+    * Based on the sharpe ratio comparisons between the benchmark (S&P500) and the ESG funds, it has been observed that three of the ESG funds have better sharpe ratios than the benchmark, which is indicative of better peformance. The overall ESG portfolio sharpe ratio (the mean o fthe ESG portfolio sharpe ratio) is comparable with that of the benchmark.
+    * Based on the calculated excess kurtosis, it has been observed that the values of the excess kurtosis of the benchmark and that of the ESG funds do compare with the marginal variability. This indicates that the benchmark and the ESG funds do entertain a similar level of kurtosis.
+    * Based on the calculated skew, it has been observed that both the benchmark and the ESG funds do show negative skew. There is a high probability that behaviors in the return of investment of the ESG funds might look like that of the benchmark.
 
+## What else would we analyze if we had more time?
+* Taking a look at different weighted portfolios to see what combinations produced the best results.
+* Investigate correlations between an ESG fund's sector weighting and overall results, for example, does a fund with more investment in say solar energy or alternative infrastructure produce a better return? The fact that FAN performed the best overall and has more directed investments in utilities, renewable energies and other alternative energy infrastructure made us wonder if such a focused fund would produce better results over time.
