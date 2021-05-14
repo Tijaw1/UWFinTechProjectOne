@@ -52,3 +52,8 @@
 ## What else would we analyze if we had more time?
 * Taking a look at different weighted portfolios to see what combinations produced the best results.
 * Investigate correlations between an ESG fund's sector weighting and overall results, for example, does a fund with more investment in say solar energy or alternative infrastructure produce a better return? The fact that FAN performed the best overall and has more directed investments in utilities, renewable energies and other alternative energy infrastructure made us wonder if such a focused fund would produce better results over time.
+
+## Data Sets used: 
+- Historical ticker data for each ESG fund. 
+- Historical Data for major firms that have ESG portfolios (i.e. Vanguard).
+- Data for ESG fund sector weighting and fund grades (www.etf.com).
